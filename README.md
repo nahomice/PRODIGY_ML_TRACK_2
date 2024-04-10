@@ -1,4 +1,5 @@
-# PRODIGY_ML_TRACK_1
+# PRODIGY_ML_TRACK_2
+
 🪢 This is a model which was produced to Create a K-means clustering algorithm to group customers of a retail store based on their purchase history by using the concept of machine learing.
 
 🪢 Under this project I have used numpy, pandas, skit-learn and also matplot in order to satsify and meet the conditions of this project.
